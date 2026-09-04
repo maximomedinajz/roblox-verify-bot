@@ -1,0 +1,16 @@
+{
+  "name": "roblox-verify-bot",
+  "version": "1.0.0",
+  "description": "Bot de Discord para verificar y sincronizar cuentas de Roblox, con roles por rango de grupo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
